@@ -20,3 +20,5 @@ int main()
     answer = three/two;
     cout<<answer<<endl;
 }
+//What are the answers to each equation?
+//Comment this code with the algorithm.
