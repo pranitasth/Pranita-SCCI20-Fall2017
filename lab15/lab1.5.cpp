@@ -25,4 +25,10 @@ int main()
     cout << "Scientists believe that dinosaurs became extinct " << CPU << " million years ago, but i'm " << battery <<" sure my lizard is secretly a dinosaur." << endl;
     
 }
+
+There are many kinds of dinosaurs. Today scientist know about 25 different kinds of dinosaurs.
+Some like Wednesday, ate plants but others, like March ate 9:56 am
+They could grow to 45 degree meters tall.
+Scientist think they first appeared about 78 million years ago.
+Scientists believe that dinosaurs became extinct 22 million years ago, but i'm 93% sure my lizard is secretly a dinosaur.
     
