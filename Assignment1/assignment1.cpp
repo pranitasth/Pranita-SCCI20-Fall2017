@@ -38,3 +38,9 @@ cout << ", with a time of " << time << " seconds to reach takeoff speed" << endl
 
 }
     
+    Enter jets takeoff speed in Km/hr.: 500
+Enter distance of takeoff in meters.: 1000
+The acceleration of a jettraveling at 500Km/Hr
+at a distance of 9.88131e-324 meters
+Is 0.138889 meters/seconds^2
+, with a time of 1 seconds to reach takeoff speed
